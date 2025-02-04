@@ -1,0 +1,22 @@
+
+To design a shape we must specify:->
+  
+1) Is it necessary to divide the shape into parts for drawing?
+2) The relationship between the number of rows, the number of stars and the spaces
+3) Is it necessary to delete the star in a private area?
+
+->notes:
+- For the main diagonal of the matrix:
+
+    Main diameter i = j
+    Below the main diameter i>j
+    Above the main diagonal i<j
+
+
+- As for the sub-diagonal in the matrix:
+
+   Subdiameter i+j=no_of_lines +1
+   Under the subdiagonal i+j>no_of_lines +1
+   Above the sub-diagonal i+j<no_of_lines +1
+--------------------------------------------------------------
+--------------------------------------------------------------
