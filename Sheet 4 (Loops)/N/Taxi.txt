@@ -1,0 +1,12 @@
+1- if number of groupe 4 then they will take a taxi
+2- if number of groupe 3 then they matching with ones to compelete a 4  and take a taxi
+3- if number of groupe 2 then they matching with itself and take a taxi for 4 passengers
+4- if remaining number of groupe from two (one groupe).it need to 
+   number of groupe from ones equal to 2 to compelete a 4 or 1 to compelete 3 and take a taxi
+5- Since we have verified the connection between the Ones groups 
+   and the Threes groups, the remaining number of Threes will 
+   receive a tax for each group, 
+   because in this case the number of Ones becomes zero.
+6- If the number of 1 then each 4 will take a taxi and and the remaining also take a taxi
+7- then print the minumum of taxi
+     
